@@ -1,0 +1,14 @@
+---
+user:
+  - email: bob@sanders.com
+    groups:
+      quicksight:
+        - one
+        - two
+        - three
+  - email: here@example.com
+    groups:
+      quicksight:
+        - one
+        - two
+        - four
